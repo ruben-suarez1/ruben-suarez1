@@ -40,8 +40,11 @@
 
 ![](https://komarev.com/ghpvc/?username=ruben-suarez1&color=blue&style=for-the-badge)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ruben-suarez1&theme=radica&margin-w=15)](https://github.com/ruben-suarez1/github-profile-trophy)
+
+## 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=ruben-suarez1&theme=dark&hide_border=true&border_radius=15)](https://git.io/streak-stats)
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-suarez1&theme=radical&langs_count=8&layout=compact)](https://github.com/ruben-suarez1/github-readme-stats)
 
