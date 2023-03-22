@@ -1,8 +1,8 @@
 <a href='https://www.linkedin.com/in/ruben-suarez1'><img tooltip="Linkedin" src='https://i.imgur.com/phd3kIh.png' width='300px' align='right'/></a>
 
 <h1 align="left">Hi 👋, I'm Ruben Suarez</h1>
-<h3 align="left">I am a highly motivated developer and passionate about learning new technologies that help me grow professionally, I love solving complex problems.
-</h3>
+<h4 align="left">I am a highly motivated developer and passionate about learning new technologies that help me grow professionally, I love solving complex problems.
+</h4>
 
 <hr>
 
